@@ -15,7 +15,7 @@ This is a simple Kanban board built with JavaScript, jQuery, Day.js, and Bootstr
 
 ## Technologies Used
 
-- HTML5 & CSS3: Basic structure and styling.
+- HTML & CSS: Basic structure and styling.
 - JavaScript: Core functionality for task management.
 - jQuery: Simplifies DOM manipulation and event handling.
 - Bootstrap: Provides modal windows, alerts, and responsive styling.
