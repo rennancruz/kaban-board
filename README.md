@@ -1,2 +1,1 @@
-# kaban-board
-Kaban Board
+# Kaban Board
