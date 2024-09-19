@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+.kanban-columns {
+  min-height: 60vh;
+}
+
+.kanban-card {
+  border: 2px solid black;
+  margin: 28px auto;
+  z-index: 300;
+}
+
+.kanban-card:hover {
+  cursor: grab;
+}
+
+.draggable {
+  width: 275px;
+  height: 190px;
+  padding: 0.5px;
+}
+
+.btn-delete {
+  background-color: #eb2525;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+#datePicker {
+  margin: 10px;
+}
