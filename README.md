@@ -1,7 +1,8 @@
 # Kanban Board Project
 
 This is a simple Kanban board built with JavaScript, jQuery, Day.js, and Bootstrap. The board allows users to manage tasks by creating, updating, and deleting tasks across three columns: To Do, In Progress, and Done. Tasks have due dates, and the board automatically adjusts the visual appearance of each task card based on its status and due date.
-To visit this Kanban Board, please use this [link](https://rennancruz.github.io/kanban-board/kanban-page.html).
+
+- To visit this Kanban Board, please use this [link](https://rennancruz.github.io/kanban-board/kanban-page.html).
 
 https://github.com/user-attachments/assets/11d4c99c-364b-43cc-8426-7a2f8c30a67d
 
