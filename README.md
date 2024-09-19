@@ -8,10 +8,10 @@ This is a simple Kanban board built with JavaScript, jQuery, Day.js, and Bootstr
 - Task Deletion: Users can delete tasks by clicking the "Delete" button on each task card.
 - Drag-and-Drop: Task cards can be dragged between the "To Do", "In Progress", and "Done" columns.
 - Task Statuses: Visual cues like background color change based on task due date:
-  -- Yellow (bg-warning): Task is due today or later this week.
-  -- Red (bg-danger): Task is overdue.
-  -- Light (bg-light): Task is due after the current week.
-  -- Green (bg-success): Task is completed.
+  - Yellow (bg-warning): Task is due today or later this week.
+  - Red (bg-danger): Task is overdue.
+  - Light (bg-light): Task is due after the current week.
+  - Green (bg-success): Task is completed.
 
 ## Technologies Used
 
